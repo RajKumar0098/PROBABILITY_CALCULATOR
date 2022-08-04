@@ -1,5 +1,4 @@
 # PROJECT:PROBABILITY_CALCULATOR
-# probability
 Probability calculator finds the probability of an event occurring by calculating the ratio of the favorable outcomes to the total outcomes. Probability is a field of statistics that is used to describe the likelihood of occurrence of an event.
 
 Here I declare the balls with respect to theire colors. I declare the 4 blue balls and 2 red and 6 green balls.
